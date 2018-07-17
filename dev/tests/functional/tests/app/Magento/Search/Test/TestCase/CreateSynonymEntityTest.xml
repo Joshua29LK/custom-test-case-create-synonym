@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../vendor/magento/mtf/etc/variations.xsd">
+    <testCase name="Magento\Search\Test\TestCase\CreateSynonymEntityTest" summary="Create Synonyms" ticketId="MAGETWO-23022016">
+        <variation name="CreateCategoryEntityTestVariation1_all_websites_all_store_views" summary="Create synonym for all websites and all store views">
+            <data name="synonym/data/synonyms" xsi:type="string">shoes %isolation%, foot wear %isolation%, men shoes %isolation%, women shoes %isolation%</data>
+            <constraint name="Magento\Search\Test\Constraint\AssertSynonymSuccessSaveMessage" />
+        </variation>
+        <variation name="CreateCategoryEntityTestVariation2_main_website_all_store_views" summary="Create synonyms for main website and all store views">
+            <data name="synonym/data/synonyms" xsi:type="string">shoes %isolation%, foot wear %isolation%, men shoes %isolation%, women shoes %isolation%</data>
+            <data name="synonym/data/scope_id/dataset" xsi:type="string">all_store_views</data>
+            <constraint name="Magento\Search\Test\Constraint\AssertSynonymSuccessSaveMessage" />
+        </variation>
+        <variation name="CreateCategoryEntityTestVariation3_main_website_default_store_view" summary="Create synonyms for main website and default store views">
+            <data name="synonym/data/synonyms" xsi:type="string">shoes %isolation%, foot wear %isolation%, men shoes %isolation%, women shoes %isolation%</data>
+            <data name="synonym/data/scope_id/dataset" xsi:type="string">default_store_view</data>
+            <constraint name="Magento\Search\Test\Constraint\AssertSynonymSuccessSaveMessage" />
+        </variation>
+    </testCase>
+</config>

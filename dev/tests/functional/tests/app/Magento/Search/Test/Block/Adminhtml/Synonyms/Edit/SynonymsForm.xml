@@ -1,0 +1,8 @@
+<mapping strict="0">
+  <fields>
+      <synonyms />
+      <scope_id>
+          <input>selectstore</input>
+      </scope_id>
+  </fields>
+</mapping>
