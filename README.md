@@ -80,13 +80,13 @@ vendor/bin/phpunit --filter CreateSynonymEntityTest
 
 ## IV. Useful Magento 2 Extensions You Should Never Miss
 
-- <a href="https://bsscommerce.com/magento-2-b2b-extensions.html" target="_blank">B2B Extensions</a>: Empower your wholesale business with premium Magento 2 B2B extensions. Explore right away!
-- <a href="https://bsscommerce.com/magento-2-seo-extensions.html" target="_blank">SEO Extensions</a>: Enhance SEO performance to improve search engine ranking and earn more. Check now!
-- <a href="https://bsscommerce.com/magento-2-sales-motivation.html" target="_blank">Sales Motivation</a>: Boost your revenue with most effective sales tactics: order, shipping, payment, etc. Ready to shop?
-- <a href="https://bsscommerce.com/magento-2-user-experience.html" target="_blank">User Experience</a>: Satisfy users with the best shopping experience and trigger them to spend money. Purchase now!
-- <a href="https://bsscommerce.com/magento-2-product-improvement.html" target="_blank">Product Improvement</a>: Optimize product and product page for the richer-in- feature and higher quality. Improve products - improve sales!
-- <a href="https://bsscommerce.com/magento-2-customer.html" target="_blank">Customer Extensions</a>: Focus on customer experiences in the frontend and make them the best ever. Buy now!
-- <a href="https://bsscommerce.com/magento-2-administration.html" target="_blank">Administration Extensions</a>: Save precious time & effort and relieve most of hard work in the backend. Get them now!
+- <a href="https://bsscommerce.com/magento-2-extensions/b2b.html" target="_blank">B2B Extensions</a>: Empower your wholesale business with premium Magento 2 B2B extensions. Explore right away!
+- <a href="https://bsscommerce.com/magento-2-extensions/seo.html" target="_blank">SEO Extensions</a>: Enhance SEO performance to improve search engine ranking and earn more. Check now!
+- <a href="https://bsscommerce.com/magento-2-extensions/sales-motivation.html" target="_blank">Sales Motivation</a>: Boost your revenue with most effective sales tactics: order, shipping, payment, etc. Ready to shop?
+- <a href="https://bsscommerce.com/magento-2-extensions/user-experience.html" target="_blank">User Experience</a>: Satisfy users with the best shopping experience and trigger them to spend money. Purchase now!
+- <a href="https://bsscommerce.com/magento-2-extensions/product-improvement.html" target="_blank">Product Improvement</a>: Optimize product and product page for the richer-in- feature and higher quality. Improve products - improve sales!
+- <a href="https://bsscommerce.com/magento-2-extensions/customer.html" target="_blank">Customer Extensions</a>: Focus on customer experiences in the frontend and make them the best ever. Buy now!
+- <a href="https://bsscommerce.com/magento-2-extensions/administration.html" target="_blank">Administration Extensions</a>: Save precious time & effort and relieve most of hard work in the backend. Get them now!
 
 ## V. BSSCommerce Best-Seller Extensions
 
